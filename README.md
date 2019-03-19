@@ -112,6 +112,8 @@ OPTIONS
 --include-location  Includes location metadata when saving media metadata. 
                     Implicitly includes --media-metadata.
 
+--profile-metadata  Saves the user profile metadata to  <destination>/<username>.json.
+
 --comments          Saves the comment metadata associated with the posts to 
                     <destination>/<username>.json. Implicitly includes --media-metadata.
                     
